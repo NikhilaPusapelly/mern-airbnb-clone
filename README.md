@@ -22,7 +22,7 @@ This project replicates key features of Airbnb such as property listings, bookin
 - **Database**: MongoDB  
 - **Authentication**: JWT  
 - **Image Storage**: Cloudinary  
-- **Tools**: Git/GitHub, VS Code  
+- **Tools**: VS Code  
 
 ---
 
