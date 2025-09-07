@@ -100,5 +100,4 @@ npm run dev
 
 ---
 
-## 📜 License
-This project is for **educational purposes** and is not affiliated with Airbnb.
+
